@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm [Your Name]
+# Welcome to my profile. I'm Stefanus Adri
 
-## 🤖 AI Engineer | 🌐 Aspiring Web Developer
+## 🤖 Aspiring AI Engineer | 🌐 Aspiring Web Developer
 
-I'm a Python AI engineer with a passion for machine learning and a growing interest in web development. My goal is to bridge the gap between AI and web technologies to create intelligent, user-friendly applications.
+I'm an aspiring Python AI engineer with a passion for machine learning and a growing interest in web development. My goal is to bridge the gap between AI and web technologies to create intelligent, user-friendly applications.
 
 ### 🔧 Technologies & Tools
 
@@ -18,15 +18,15 @@ I'm a Python AI engineer with a passion for machine learning and a growing inter
 
 ### 🚀 What I'm up to
 
-- 🧠 Developing machine learning models for [specific domain or application]
-- 🌱 Learning full-stack web development with a focus on React and Node.js
+- 🧠 Developing machine learning models for any type of data
+- 🌱 Learning full-stack web development with a focus on React and Node.js, also Python
 - 🔍 Exploring ways to integrate AI models into web applications
 - 📚 Constantly expanding my knowledge in both AI and web technologies
 
 ### 🌟 Featured Projects
 
-1. **[AI Project Name]** - Brief description of an AI project you've worked on.
-   - 🔗 [Repository Link]
+1. **[AI Project Name]** - Help car or truck driver stay awake during the ride
+   - 🔗 [https://github.com/stefanus-ai-tech/Blink_Drive_Arrive]
    - 🛠️ Technologies used: Python, TensorFlow, Scikit-learn
 
 2. **[Web Dev Project Name]** - Description of a web development project.
