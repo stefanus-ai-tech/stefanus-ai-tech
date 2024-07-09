@@ -25,26 +25,23 @@ I'm an aspiring Python AI engineer with a passion for machine learning and a gro
 
 ### 🌟 Featured Projects
 
-1. **[AI Project Name]** - Help car or truck driver stay awake during the ride
+1. **[Blink. Drive.Arrive]** - Help car or truck driver stay awake during the ride
    - 🔗 [https://github.com/stefanus-ai-tech/Blink_Drive_Arrive]
    - 🛠️ Technologies used: Python, TensorFlow, Scikit-learn
 
-2. **[Web Dev Project Name]** - Description of a web development project.
-   - 🔗 [Repository Link]
-   - 🛠️ Technologies used: JavaScript, React, Node.js
+2. **[Japanify]** - Change any name into japanese romaji
+   - 🔗 [https://github.com/stefanus-ai-tech/Japanify]
+   - 🛠️ Technologies used: Html, Css, JavaScript
 
-3. **[AI + Web Integration Project]** - A project combining AI and web technologies.
-   - 🔗 [Repository Link]
-   - 🛠️ Technologies used: Python, TensorFlow.js, React
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanus-ai-tech&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](Your LinkedIn URL)
-- 🐦 [Twitter](Your Twitter URL)
-- 🌐 [Personal Website/Blog](Your website URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/stefanus-adri-irawan-5753801b1/)
+- 🐦 [Twitter](https://x.com/stefanusaitech)
+- 🌐 [Personal Website/Blog](https://stefanus-ai-tech.super.site/)
 
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on an exciting project that combines AI and web development!
+Let's connect and learn together!
