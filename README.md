@@ -32,6 +32,7 @@ I'm an aspiring Python AI engineer with a passion for machine learning and a gro
 2. **[Japanify]** - Change any name into japanese romaji
    - 🔗 [https://github.com/stefanus-ai-tech/Japanify]
    - 🛠️ Technologies used: Html, Css, JavaScript
+   - 🌐 Try it here [https://stefanus-ai-tech.github.io/Japanify/]
 
 
 ### 📈 GitHub Stats
