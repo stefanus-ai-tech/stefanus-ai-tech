@@ -17,7 +17,7 @@ I'm an aspiring cybersecurity pentester with a strong foundation in Python and a
 ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6347?style=flat-square&logo=burp-suite&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
