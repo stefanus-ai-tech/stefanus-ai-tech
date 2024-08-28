@@ -24,7 +24,7 @@ I'm an aspiring cybersecurity pentester with a strong foundation in Python and a
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/stefanus-adri-irawan-5753801b1/)
-- 🐦 [Twitter](https://x.com/stefanussectech)
-- 🌐 [Personal Website/Blog](https://stefanus-security-tech.super.site/)
+- 🐦 [Twitter](https://x.com/stefanusaitech)
+- 🌐 [Personal Website/Blog](https://stefanus-ai-tech.super.site/)
 
 Let's collaborate on making the digital world more secure!
