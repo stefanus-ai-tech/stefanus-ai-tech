@@ -19,15 +19,6 @@ I'm an aspiring cybersecurity pentester with a strong foundation in Python and a
 - 🌱 Expanding my knowledge in network security and web application security
 - 🔍 Exploring the intersection of AI and cybersecurity
 
-### 🌟 Featured Projects
-1. **[SecureNet Guardian]** - An AI-powered intrusion detection system
-   - 🔗 [https://github.com/stefanus-security-tech/SecureNet-Guardian]
-   - 🛠️ Technologies used: Python, TensorFlow, Scikit-learn, Snort
-
-2. **[WebVulnScanner]** - Automated web application vulnerability scanner
-   - 🔗 [https://github.com/stefanus-security-tech/WebVulnScanner]
-   - 🛠️ Technologies used: Python, OWASP ZAP API, Beautiful Soup
-
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanus-security-tech&show_icons=true&theme=radical)
 
