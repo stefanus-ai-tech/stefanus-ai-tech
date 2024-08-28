@@ -20,7 +20,7 @@ I'm an aspiring cybersecurity pentester with a strong foundation in Python and a
 - 🔍 Exploring the intersection of AI and cybersecurity
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanus-security-tech&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanus-ai-tech&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/stefanus-adri-irawan-5753801b1/)
